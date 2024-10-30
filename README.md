@@ -3,11 +3,11 @@
 ## Structure of each tip
 - Title
 - Explanation
-- Inserted Code (copy an d paste from here for practice)
+- Inserted Code (copy and paste from here for practice)
 - Code cell
 - Sample output
 
-*The difficulty level of a query is indicated as below.*  
+*The difficulty level of a query is indicated below.*  
 EASY      - 🟢  
 MEDIUM    - 🟡  
 HARD      - 🟠
